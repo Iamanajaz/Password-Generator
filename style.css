@@ -11,7 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color: #d4d4d4;
-    background-image: url(\bg.jpg);
+    background-image: url(bg.jpg);
     background-position: left;
     background-size: cover;
     /* background-repeat: no-repeat, repeat; */
