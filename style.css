@@ -24,15 +24,24 @@ body{
     background-color: #fff;
     padding: 40px 30px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.548);
+    
 }
 
+
 .container h1{
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 38px;
+    
     margin-bottom: 36px;
     text-align: center;
-    color: #333333;
-    text-decoration: underline;
+
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+    
 }
 
 .inputBox{
