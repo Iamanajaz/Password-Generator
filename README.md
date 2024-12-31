@@ -1,4 +1,4 @@
-#  [Password-Generator](https://www.google.com/)
+#  [Password-Generator](https://bit.ly/iaman-password)
 
 This project is a Random Password Generator that enables users to create secure passwords with customizable features. Users can specify the length of the password and the types of characters to include (lowercase, uppercase, numbers, symbols). It also includes a copy-to-clipboard feature for convenience. <br/>
 ## Features
